@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314307449591",
+    "project_id": "mina-29a2a",
+    "storage_bucket": "mina-29a2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314307449591:android:246464a6bf0e6e56bd79f2",
+        "android_client_info": {
+          "package_name": "com.example.markfayezenter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSs1_6udhp1yKSmHaZ_CsrQuoiVVDONag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
